@@ -5,3 +5,6 @@ if __name__ == '__main__':
 
     for i in range(10):
         print(top_words[i][0])
+
+if __name__ == '__main__':
+    main()
